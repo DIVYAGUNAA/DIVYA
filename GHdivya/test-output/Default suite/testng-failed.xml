@@ -3,14 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Hms.KFC">
+      <class name="Hms.validationtest">
         <methods>
-          <include name="openurl"/>
-          <include name="payment"/>
-          <include name="Select"/>
+          <include name="beforeTest"/>
           <include name="afterTest"/>
+          <include name="f"/>
         </methods>
-      </class> <!-- Hms.KFC -->
+      </class> <!-- Hms.validationtest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

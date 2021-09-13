@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12587" started-at="2021-09-11T15:25:05 IST" finished-at="2021-09-11T15:25:17 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12587" started-at="2021-09-11T15:25:05 IST" finished-at="2021-09-11T15:25:17 IST">
+      <class name="DIVS.CAPTURING_SCREENSHOT">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:DIVS.CAPTURING_SCREENSHOT@65e2dbf3]" name="beforeTest" is-config="true" duration-ms="10295" started-at="2021-09-11T15:25:05 IST" finished-at="2021-09-11T15:25:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:DIVS.CAPTURING_SCREENSHOT@65e2dbf3]" name="f" duration-ms="1143" started-at="2021-09-11T15:25:15 IST" finished-at="2021-09-11T15:25:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:DIVS.CAPTURING_SCREENSHOT@65e2dbf3]" name="afterTest" is-config="true" duration-ms="1078" started-at="2021-09-11T15:25:16 IST" finished-at="2021-09-11T15:25:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- DIVS.CAPTURING_SCREENSHOT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
